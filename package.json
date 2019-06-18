@@ -1,0 +1,24 @@
+{
+  "name": "promise-compose",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Liu Chaofan",
+    "email": "laearon@gmail.com"
+  },
+  "keywords": [
+    "promise",
+    "function",
+    "compose"
+  ],
+  "scripts": {
+    "test": "jest --forceExit --coverage"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
